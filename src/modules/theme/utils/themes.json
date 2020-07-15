@@ -1,0 +1,27 @@
+[
+  {
+    "key": "DEFAULT",
+    "backgroundColor": "#FFF",
+    "color": "#000"
+  },
+  {
+    "key": "ORANGE",
+    "backgroundColor": "#FFFBEE",
+    "color": "#FFA806"
+  },
+  {
+    "key": "PURPLE",
+    "backgroundColor": "#FBEEFF",
+    "color": "#B500F3"
+  },
+  {
+    "key": "GREEN",
+    "backgroundColor": "#EEFFF4",
+    "color": "#00B62C"
+  },
+  {
+    "key": "BLUE",
+    "backgroundColor": "#EEFAFF",
+    "color": "#00A7F0"
+  }
+]
