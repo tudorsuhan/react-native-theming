@@ -1,0 +1,12 @@
+{
+  "name": "react-native-theming",
+  "displayName": "react-native-theming",
+  "expo": {
+    "name": "react-native-theming",
+    "slug": "react-native-theming",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
